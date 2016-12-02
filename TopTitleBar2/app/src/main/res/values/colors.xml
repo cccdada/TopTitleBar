@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="title_bar_color">#be5453</color>
+    <color name="title_color">#000000</color>
+    <color name="divider_color">#222222</color>
+    <color name="color_6b7072">#6b7072</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_394043">#394043</color>
+    <color name="color_f9f9f9">#f9f9f9</color>
+
+    <color name="bar_color">#FF03E8F9</color>
+    <color name="bar_center_color">#FF4BB1F5</color>
+    <color name="bar_top_color">#FFA340EA</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

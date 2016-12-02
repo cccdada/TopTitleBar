@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--头部统一的样式-->
+    <declare-styleable name="TopTitleBar">
+        <!-- 定义titlebar中间标题-->
+        <attr name="tb_title" format="reference" />
+        <!-- 定义titlebar返回按钮图片-->
+        <attr name="tb_back_icon" format="reference" />
+        <!-- 定义titlebar背景图片-->
+        <attr name="tb_background_pic" format="reference" />
+        <!-- 定义titlebar分割线是否可见-->
+        <attr name="tb_divider_visible" format="boolean" />
+    </declare-styleable>
+</resources>
