@@ -414,10 +414,7 @@ public class TopTitleBar extends LinearLayout implements View.OnClickListener {
                 new LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,
                         ViewGroup.LayoutParams.WRAP_CONTENT);
         mContentLayout.setLayoutParams(lp);
-//        mContentLayout.removeAllViews();
-        setCenterViewVisible(GONE);
-        setLeftVisible(false);
-        mRightLayout.setVisibility(GONE);
+        mContentLayout.removeAllViews();
         mContentLayout.addView(contentView);
     }
 

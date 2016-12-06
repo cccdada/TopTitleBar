@@ -13,35 +13,35 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/title_height"
         android:layout_marginTop="@dimen/margin"
-        android:text="one"/>
+        android:text="沉浸式－颜色"/>
     <Button
         android:id="@+id/btn2"
         android:layout_width="match_parent"
         android:layout_height="@dimen/title_height"
         android:layout_marginTop="@dimen/margin"
-        android:text="two"/>
+        android:text="沉浸式－全透明"/>
     <Button
         android:id="@+id/btn3"
         android:layout_width="match_parent"
         android:layout_height="@dimen/title_height"
         android:layout_marginTop="@dimen/margin"
-        android:text="three"/>
+        android:text="沉浸式状态栏-背景"/>
     <Button
         android:id="@+id/btn4"
         android:layout_width="match_parent"
         android:layout_height="@dimen/title_height"
         android:layout_marginTop="@dimen/margin"
-        android:text="four"/>
+        android:text="沉浸式状态栏-非沉浸"/>
     <Button
         android:id="@+id/btn5"
         android:layout_width="match_parent"
         android:layout_height="@dimen/title_height"
         android:layout_marginTop="@dimen/margin"
-        android:text="five"/>
+        android:text="沉浸式状态栏-沉浸状态栏－右方添加按钮"/>
     <Button
         android:id="@+id/btn6"
         android:layout_width="match_parent"
         android:layout_height="@dimen/title_height"
         android:layout_marginTop="@dimen/margin"
-        android:text="six"/>
+        android:text="沉浸式状态栏-自定义布局"/>
 </LinearLayout>

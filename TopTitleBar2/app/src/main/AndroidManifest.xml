@@ -17,10 +17,6 @@
         </activity>
 
         <activity android:name=".OneActivity" android:theme="@style/AppNoBar"/>
-        <activity android:name=".ThreeActivity" android:theme="@style/AppNoBar"/>
-        <activity android:name=".TwoActivity" android:theme="@style/AppNoBar"/>
-        <activity android:name=".FourActivity" android:theme="@style/AppNoBar"/>
-        <activity android:name=".FiveActivity" android:theme="@style/AppNoBar"/>
     </application>
 
 </manifest>

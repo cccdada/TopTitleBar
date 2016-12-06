@@ -41,19 +41,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",1));
                 break;
             case R.id.btn2:
-                startActivity(new Intent(MainActivity.this,TwoActivity.class));
+                startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",2));
                 break;
             case R.id.btn3:
-                startActivity(new Intent(MainActivity.this,ThreeActivity.class));
+                startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",3));
                 break;
             case R.id.btn4:
-                startActivity(new Intent(MainActivity.this,FourActivity.class));
+                startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",4));
                 break;
             case R.id.btn5:
-                startActivity(new Intent(MainActivity.this,FiveActivity.class));
+                startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",5));
                 break;
             case R.id.btn6:
-                startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",2));
+                startActivity(new Intent(MainActivity.this,OneActivity.class).putExtra("flag",6));
                 break;
         }
     }
